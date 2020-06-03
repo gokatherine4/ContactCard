@@ -7,16 +7,16 @@ class App extends Component {
     return (
       <>
       <ContactCard 
-        name="John Wick" 
-        phone="1800963369"
-        email="JWick@continental.com"
-        address="12345 Main Street, NY, NY, 11103"
+        name = "Ric Flair" 
+        phone = "1(800)555-5555"
+        email = "ricflair@wwe.com"
+        address = "1300 Baxter St #100, Charlotte, NC 28204"
         />
       <ContactCard
-       name="London Tipton" 
-       phone="1800354785"
-       email="LondonT@TiptonHotel.com"
-       address="12345 Hilton Street, San Francisco, CA, 11234"
+       name="Larry Bird" 
+       phone="1(593)555-5555"
+       email="larrybird@nba.com"
+       address="PO Box 540 Terre Haute, IN 47808"
       />
 
       <ContactCard />
